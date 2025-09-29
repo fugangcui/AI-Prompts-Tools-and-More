@@ -132,6 +132,8 @@ This section includes links to ChatGPT prompt tools and resources.
 
 - [CodeWP - AI WordPress Code Generator & Assistant](https://codewp.ai/) - An AI-powered WordPress code generator and assistant.
 
+• [TheBestTools.ai - Discover the Best AI Tools for Every Need](https://thebesttools.ai) - A professional AI tools discovery platform featuring 70+ curated tools with detailed reviews across 8 categories including writing, image generation, video creation, and code development.
+
 ### Image Upscaling
 
 - ⭐ [upscayl/upscayl: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)  - A free and open-source AI image upscaler for Linux, MacOS, and Windows that is built with a Linux-First philosophy.
